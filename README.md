@@ -64,3 +64,7 @@ Topline: 0.480 mAP (C=32.00) (0.47958284901)
 
 Experiment with 59000 labels and 1000 anchors: 0.755 mAP (C=2048.00) (0.75499136667)
 ```
+
+# License
+
+This repository is licensed under the CC BY-NC 4.0.
